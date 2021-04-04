@@ -7,6 +7,3 @@ after run, see results at:
 full logs of results: log.txt
 dataset for ML: out.txt
 
-feel free to modify dict.txt and text.txt for testing
-report any bugs to me.
-eg: like when content include some special character (), the analysis is incorrect.
